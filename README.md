@@ -5,5 +5,6 @@ peles tell me
 - surname
 - email
 - mo no.
-- 
+- block/room no.
+- gr no.
 
