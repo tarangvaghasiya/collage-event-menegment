@@ -1,12 +1,13 @@
 # collage-event-menegment
 this is for collage event mangent
 
--name  
+- name  
 
--money  
+- money  
 
--mobile no.  
+- mobile no.  
 
--abcd  
+- abcd  
 my name is gunjan asodariya  
 i creat funds branch is collage event manegment
+thanyou everyone for coprate
