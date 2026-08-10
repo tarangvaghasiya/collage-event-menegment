@@ -17,6 +17,6 @@ peles tell me
 - email
 - mo no.
 - block/room no.
-- gr no.
+
 
 
